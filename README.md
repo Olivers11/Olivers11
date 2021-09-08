@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/-Python-181717?style=flat-square&logo=python)
 ![C++](https://img.shields.io/badge/-C++-181717?style=flat-square&logo=c++)
 ![Ruby](https://img.shields.io/badge/-Ruby-181717?style=flat-square&logo=ruby)
-![C#](https://img.shields.io/badge/-C#-181717?style=flat-square&logo=csharp)
+![C#](https://img.shields.io/badge/-csharp-181717?style=flat-square&logo=csharp)
 
 ## 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Olivers11&count_private=true&show_icons=true)
