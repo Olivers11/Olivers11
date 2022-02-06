@@ -7,21 +7,8 @@
 **Olivers11/Olivers11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Freelance
-- 🌱 I’m currently learning always
-- 👯 I’m looking to collaborate on a project
-- 🤔 I’m looking for help with a job
-- 💬 Ask me about logic dev
-- 📫 How to reach me: 
-- 😄 Pronouns: Oliver
-- ⚡ Fun fact: I can play all sports, i like me play guitar and sing
-<hr>
-
 <br>
-📌  Living in Guateamala, Guatemala <img src="https://www.flaticon.com/svg/static/icons/svg/630/630607.svg" width="13"/>
+📌  Living in Guateamala, Guatemala<img src="https://cdn-icons.flaticon.com/png/512/5372/premium/5372788.png?token=exp=1644111187~hmac=997e1fccaac56317e16333a19fa22457" width="13"/>
 </p>
 
 
@@ -47,6 +34,6 @@ Here are some ideas to get you started:
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Olivers11&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olivers11&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Olivers11)
+
 
 <hr>
