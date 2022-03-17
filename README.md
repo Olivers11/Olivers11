@@ -8,7 +8,7 @@
 
 -->
 <br>
-📌  Living in Guateamala, Guatemala<img src="https://cdn-icons.flaticon.com/png/512/5372/premium/5372788.png?token=exp=1644111187~hmac=997e1fccaac56317e16333a19fa22457" width="13"/>
+📌  Living in Guateamala, Guatemala
 </p>
 
 
