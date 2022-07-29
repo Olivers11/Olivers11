@@ -1,8 +1,5 @@
 ### Hi there, I'm Oliver 👋
 
-<img src="https://www.gokiebox.com/comparte/wp-content/uploads/2017/11/webbbb.gif">
-
-
 <!--
 **Olivers11/Olivers11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
